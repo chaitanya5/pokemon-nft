@@ -1,0 +1,127 @@
+{
+    "paths": {
+        "data": "data",
+        "scripts": "scripts",
+        "images": "images",
+        "metadata": "metadata",
+        "status": "data/status.json"
+    },
+    "pipeline": {
+        "steps": [
+            {
+                "id": "1",
+                "name": "CSV to JSON Conversion",
+                "script": "scripts/1_csvtojson.js",
+                "description": "Convert CSV data to JSON format",
+                "icon": "📊",
+                "enabled": true,
+                "dependencies": [],
+                "inputs": { "inputCsvFile": "data/pokemon.csv" },
+                "outputs": { "outputJsonFile": "data/pokemon.json" }
+            },
+            {
+                "id": "2",
+                "name": "Generate Metadata",
+                "script": "scripts/2_generate_metadata.js",
+                "description": "Generate NFT metadata from JSON data",
+                "icon": "🏗️",
+                "enabled": true,
+                "dependencies": ["1"],
+                "inputs": {
+                    "inputFile": "data/pokemon.json",
+                    "dataFile": "data/all_pokemon_data.json"
+                },
+                "outputs": {
+                    "outputFile": "data/metadata.json",
+                    "failedFile": "data/failed.json"
+                }
+            },
+            {
+                "id": "3",
+                "name": "Sanitize Metadata",
+                "script": "scripts/3_sanitize_metadata.js",
+                "description": "Sanitize NFT metadata from generated metadata",
+                "icon": "🧹",
+                "enabled": true,
+                "dependencies": ["2"],
+                "inputs": {
+                    "inputFile": "data/metadata.json"
+                },
+                "outputs": {
+                    "outputFile": "data/sanitized-metadata.json",
+                    "failedFile": "data/failed-sanitized-metadata.json",
+                    "reportFile": "data/report-sanitized-metadata.json"
+                }
+            },
+            {
+                "id": "4",
+                "name": "Download Images To Local System",
+                "script": "scripts/4_download_images.js",
+                "description": "Download Pokemon front and back images",
+                "icon": "⬇️",
+                "enabled": true,
+                "dependencies": ["3"],
+                "inputs": {
+                    "inputFile": "data/sanitized-metadata.json"
+                },
+                "outputs": {
+                    "outputFile": "data/metadata_with_local_paths.json"
+                }
+            },
+            {
+                "id": "5",
+                "name": "Upload Images To S3 Bucket",
+                "script": "scripts/5_upload_images.js",
+                "description": "Upload Pokemon front and back images to S3 bucket. Please confirm the bucket config data in the config.json",
+                "icon": "☁️",
+                "enabled": true,
+                "dependencies": ["4"],
+                "inputs": {
+                    "inputFile": "data/metadata_with_local_paths.json"
+                },
+                "outputs": {
+                    "outputFilePath": "data/metadata_with_S3.json",
+                    "remoteFolderPath": "sample-images"
+                }
+            },
+            {
+                "id": "6",
+                "name": "Split Metadata to individual files",
+                "script": "scripts/6_split_metadata.js",
+                "description": "Split the final metadata file into individual files. Prepare it to upload individual NFT metadata",
+                "icon": "✂️",
+                "enabled": true,
+                "dependencies": ["5"],
+                "inputs": {
+                    "inputFilePath": "data/metadata_with_S3.json"
+                },
+                "outputs": {
+                    "outputDir": "metadata"
+                }
+            },
+            {
+                "id": "7",
+                "name": "Upload Metadata To S3 Bucket",
+                "script": "scripts/7_upload_metadata.js",
+                "description": "Upload Pokemon NFT metadata to S3 bucket. Please confirm the bucket config data in the config.json",
+                "icon": "☁️",
+                "enabled": true,
+                "dependencies": ["4"],
+                "inputs": {
+                    "inputDir": "metadata",
+                    "inputFilePath": "data/metadata_with_S3.json"
+                },
+                "outputs": {
+                    "outputFilePath": "data/metadata_with_S3_and_metadata_urls.json",
+                    "remoteFolderPath": "sample_metadata2"
+                }
+            }
+        ]
+    },
+    "settings": {
+        "parallel_execution": false,
+        "continue_on_error": false,
+        "backup_outputs": true,
+        "log_level": "info"
+    }
+}

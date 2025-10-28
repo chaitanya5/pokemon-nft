@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-10-28T10:50:56.505Z",
+  "inputFile": "data/metadata.json",
+  "outputFile": "data/sanitized-metadata.json",
+  "totalItems": 336,
+  "successfulItems": 336,
+  "failedItems": 0,
+  "successRate": 100,
+  "errorBreakdown": {
+    "missingFields": [],
+    "missingTraits": [],
+    "invalidProperties": [],
+    "processingErrors": []
+  },
+  "errorDetails": {
+    "fileRead": 0,
+    "jsonParse": 0,
+    "validation": 0,
+    "fileWrite": 0
+  }
+}
