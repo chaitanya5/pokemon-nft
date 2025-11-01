@@ -1,0 +1,74 @@
+{
+  "1996-Pokemon-Japanese-Bandai-Carddass-Vending-Prism-Zapdos-145-PSA-8-NM-MT-61191978": {
+    "assetAddress": "J7hHD5M3fLtFBpKF6g7mcr7o4u3M5oBAv1noMcrSsAES",
+    "ownerAddress": "P1pEws6aGDMu2VecAqmHpFtpEgY8wkjkGf8qHAVrSyM",
+    "transactionSignature": "5qWtV49Eb1UWLzdEkvM3NPh2iVEnuZr26dcPcJbFrJ1WfCV1waLPdXN2s42b8TmcEnxVP5V9FTZBVsXLDVt76UUL",
+    "explorerUrl": "https://explorer.solana.com/tx/5qWtV49Eb1UWLzdEkvM3NPh2iVEnuZr26dcPcJbFrJ1WfCV1waLPdXN2s42b8TmcEnxVP5V9FTZBVsXLDVt76UUL?cluster=devnet",
+    "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1996-Pokemon-Japanese-Bandai-Carddass-Vending-Prism-Zapdos-145-PSA-8-NM-MT-61191978.json",
+    "collectionAddress": "3p5vgqwR3Y5HUx3SuYjRrpeUpwd4A6H8F1aggpdrb5Zr",
+    "timestamp": "2025-10-28T16:03:46.278Z"
+  },
+  "1996-Pokemon-Japanese-Base-Set-Holo-Gyarados-130-CGC-8.5-NM-MT-3831886042": {
+    "assetAddress": "Ci694tG4mAuzz4hWVGUfPQVLYjtSDv5CqoW8j48XAuvq",
+    "ownerAddress": "P1pEws6aGDMu2VecAqmHpFtpEgY8wkjkGf8qHAVrSyM",
+    "transactionSignature": "vjSzBwkyHjr6gRcaPuSEt8nJCrZCf6h2v45Sdjy8dZiM22T1gVHitoPM98brX6mki2PDvr4S4qfBjDQP3FWuqPa",
+    "explorerUrl": "https://explorer.solana.com/tx/vjSzBwkyHjr6gRcaPuSEt8nJCrZCf6h2v45Sdjy8dZiM22T1gVHitoPM98brX6mki2PDvr4S4qfBjDQP3FWuqPa?cluster=devnet",
+    "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1996-Pokemon-Japanese-Base-Set-Holo-Gyarados-130-CGC-8.5-NM-MT-3831886042.json",
+    "collectionAddress": "3p5vgqwR3Y5HUx3SuYjRrpeUpwd4A6H8F1aggpdrb5Zr",
+    "timestamp": "2025-10-28T16:05:33.708Z"
+  },
+  "1996-Pokemon-Japanese-Base-Set-Holo-Hitmonchan-107-CGC-10-GEM-MINT-1401023816152": {
+    "assetAddress": "GsdwokQGAQygVm3LXkv5yym1QhUZywChDDzdpik5csCM",
+    "ownerAddress": "P1pEws6aGDMu2VecAqmHpFtpEgY8wkjkGf8qHAVrSyM",
+    "transactionSignature": "5JAhT6t2XF4x5uLcasa2dqshsfirXdBBuZBVD3WJPRMnzyWwxR8VMXjk7aSB7Z5Rs8debkJGEgzhY1yfVFLQs9db",
+    "explorerUrl": "https://explorer.solana.com/tx/5JAhT6t2XF4x5uLcasa2dqshsfirXdBBuZBVD3WJPRMnzyWwxR8VMXjk7aSB7Z5Rs8debkJGEgzhY1yfVFLQs9db?cluster=devnet",
+    "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1996-Pokemon-Japanese-Base-Set-Holo-Hitmonchan-107-CGC-10-GEM-MINT-1401023816152.json",
+    "collectionAddress": "3p5vgqwR3Y5HUx3SuYjRrpeUpwd4A6H8F1aggpdrb5Zr",
+    "timestamp": "2025-10-28T16:16:49.318Z"
+  },
+  "1997-Pokemon-Japanese-Bandai-Carddass-Animation-Opening-Mew-1-CGC-10-GEM-MINT-6017405045": {
+    "assetAddress": "3xoamgJFi3ScWKN4cahokrSksawzCVtwYJ8dqusxptP9",
+    "ownerAddress": "P1pEws6aGDMu2VecAqmHpFtpEgY8wkjkGf8qHAVrSyM",
+    "transactionSignature": "2wLbjfH85STyYsmkDzuB7CXxVVydGqLtZ4ZmyfncqcB7ZYgQ771qf6QhoUXkDSRM73SVYi5swnM7XSNmBqcXX7ST",
+    "explorerUrl": "https://explorer.solana.com/tx/2wLbjfH85STyYsmkDzuB7CXxVVydGqLtZ4ZmyfncqcB7ZYgQ771qf6QhoUXkDSRM73SVYi5swnM7XSNmBqcXX7ST?cluster=devnet",
+    "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Bandai-Carddass-Animation-Opening-Mew-1-CGC-10-GEM-MINT-6017405045.json",
+    "collectionAddress": "3p5vgqwR3Y5HUx3SuYjRrpeUpwd4A6H8F1aggpdrb5Zr",
+    "timestamp": "2025-10-28T16:17:24.707Z"
+  },
+  "1997-Pokemon-Japanese-Bandai-Carddass-Animation-Opening-Mew-1-CGC-10-GEM-MINT-6017405046": {
+    "assetAddress": "7r3jSNTaWHBiim4Kz4WKpEMbxXWYDs6RbbxxqWf1dDLe",
+    "ownerAddress": "P1pEws6aGDMu2VecAqmHpFtpEgY8wkjkGf8qHAVrSyM",
+    "transactionSignature": "5abMbi1NFm9D6ek9xP9RVkhkPVsKtkoLb73VAqQPd4DwA4ocBH1Hya23MD44PXQK2rRVULSU5qNQwLd92WZTq4HP",
+    "explorerUrl": "https://explorer.solana.com/tx/5abMbi1NFm9D6ek9xP9RVkhkPVsKtkoLb73VAqQPd4DwA4ocBH1Hya23MD44PXQK2rRVULSU5qNQwLd92WZTq4HP?cluster=devnet",
+    "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Bandai-Carddass-Animation-Opening-Mew-1-CGC-10-GEM-MINT-6017405046.json",
+    "collectionAddress": "3p5vgqwR3Y5HUx3SuYjRrpeUpwd4A6H8F1aggpdrb5Zr",
+    "timestamp": "2025-10-28T16:26:28.758Z"
+  },
+  "1997-Pokemon-Japanese-Fossil-Holo-Moltres-146-CGC-9-MINT-6069900003": {
+    "assetAddress": "4v5xboBK7etHP39cFty6w3d8twRMNYPLWCQxmuxoUCXc",
+    "ownerAddress": "P1pEws6aGDMu2VecAqmHpFtpEgY8wkjkGf8qHAVrSyM",
+    "transactionSignature": "4kwcxwGLguzC85BNXRvaTwABQDyoTuaPc1zXXQZ4Rv4XAwxn2fru5PfcZ52pvSdmvRpgvsdYz1aBH7WcXP6ydHA3",
+    "explorerUrl": "https://explorer.solana.com/tx/4kwcxwGLguzC85BNXRvaTwABQDyoTuaPc1zXXQZ4Rv4XAwxn2fru5PfcZ52pvSdmvRpgvsdYz1aBH7WcXP6ydHA3?cluster=devnet",
+    "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Fossil-Holo-Moltres-146-CGC-9-MINT-6069900003.json",
+    "collectionAddress": "3p5vgqwR3Y5HUx3SuYjRrpeUpwd4A6H8F1aggpdrb5Zr",
+    "timestamp": "2025-10-28T16:34:14.512Z"
+  },
+  "1997-Pokemon-Japanese-Meiji-Promo-Foil-Hanada-Gym-3-Sisters-PSA-8-NM-MT-94650089": {
+    "assetAddress": "6hgHv9kAKZuR1QYffYQfun5AV5gVjJQT8DCjBgtnsSL6",
+    "ownerAddress": "P1pEws6aGDMu2VecAqmHpFtpEgY8wkjkGf8qHAVrSyM",
+    "transactionSignature": "4fGcdPorrxJ3Mkh3RDoXpG8tBcUSCxPrRMGzRVsdBPK1mEvu3tjXKWBWzbDpr3Hbr7opH92PQtAM7wCGD1nQaMit",
+    "explorerUrl": "https://explorer.solana.com/tx/4fGcdPorrxJ3Mkh3RDoXpG8tBcUSCxPrRMGzRVsdBPK1mEvu3tjXKWBWzbDpr3Hbr7opH92PQtAM7wCGD1nQaMit?cluster=devnet",
+    "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Meiji-Promo-Foil-Hanada-Gym-3-Sisters-PSA-8-NM-MT-94650089.json",
+    "collectionAddress": "3p5vgqwR3Y5HUx3SuYjRrpeUpwd4A6H8F1aggpdrb5Zr",
+    "timestamp": "2025-10-28T16:34:18.163Z"
+  },
+  "1997-Pokemon-Japanese-Rocket-Gang-Grimer-88-PSA-9-MINT-109541850": {
+    "assetAddress": "B9gbYDnbCuDkwmYWbcBbSpjMsDBdUeDJdL1kA3TTSk9f",
+    "ownerAddress": "P1pEws6aGDMu2VecAqmHpFtpEgY8wkjkGf8qHAVrSyM",
+    "transactionSignature": "4SSats1wVKU4UVRFQqh97nXH9neRZrdBjtma9UGkTT1Bzdgvo5ePpEwWB8cBTEHroLK447ouLfjMj7j9LAZZM5CW",
+    "explorerUrl": "https://explorer.solana.com/tx/4SSats1wVKU4UVRFQqh97nXH9neRZrdBjtma9UGkTT1Bzdgvo5ePpEwWB8cBTEHroLK447ouLfjMj7j9LAZZM5CW?cluster=devnet",
+    "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Rocket-Gang-Grimer-88-PSA-9-MINT-109541850.json",
+    "collectionAddress": "3p5vgqwR3Y5HUx3SuYjRrpeUpwd4A6H8F1aggpdrb5Zr",
+    "timestamp": "2025-10-28T16:38:19.613Z"
+  }
+}

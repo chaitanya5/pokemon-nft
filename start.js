@@ -34,16 +34,7 @@ const loadConfig = () => {
 };
 
 const config = loadConfig();
-const PIPELINE_STEPS = config.pipeline.steps.map((step) => ({
-    id: step.id,
-    name: step.name,
-    script: step.script,
-    description: step.description,
-    icon: step.icon,
-    inputs: step.inputs,
-    outputs: step.outputs,
-    args: [], // Will be loaded from config per script
-}));
+const PIPELINE_STEPS = config.pipeline.steps;
 
 class NFTMetadataCLI {
     constructor() {
@@ -168,8 +159,42 @@ class NFTMetadataCLI {
         this.logInfo(`Executing: node ${step.script}`);
         console.log("-".repeat(40));
 
+        // Get additional inputs for step 3 (NFT minting)
+        let scriptArgs = [];
+        if (step.id === "3") {
+            // Get network selection
+            const network = await this.askQuestion(
+                "Enter network (mainnet/devnet/testnet): ",
+            );
+            if (
+                !["mainnet", "devnet", "testnet"].includes(
+                    network.toLowerCase(),
+                )
+            ) {
+                this.logError("Invalid network selected!");
+                return false;
+            }
+
+            // Get number of NFTs to mint
+            const nftCount = await this.askQuestion(
+                "Enter number of NFTs to mint (1-100): ",
+            );
+            const count = parseInt(nftCount);
+            if (isNaN(count) || count < 1 || count > 100) {
+                this.logError(
+                    "Invalid NFT count! Please enter a number between 1 and 100.",
+                );
+                return false;
+            }
+
+            scriptArgs = [
+                `--network=${network.toLowerCase()}`,
+                `--count=${count}`,
+            ];
+        }
+
         return new Promise((resolve) => {
-            const child = spawn("node", [step.script], {
+            const child = spawn("node", [step.script, ...scriptArgs], {
                 stdio: "inherit",
                 cwd: process.cwd(),
             });
@@ -347,7 +372,15 @@ class NFTMetadataCLI {
             return;
         }
 
-        await this.runStep(step);
+        this.logInfo(`Starting step ${step.id}: ${step.name}...`);
+        const success = await this.runStep(step);
+
+        if (success) {
+            this.logSuccess(`Step ${step.id} completed successfully!`);
+        } else {
+            this.logError(`Step ${step.id} failed!`);
+        }
+
         await this.askQuestion("\nPress Enter to continue...");
     }
 
