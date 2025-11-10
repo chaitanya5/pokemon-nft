@@ -161,36 +161,50 @@ class NFTMetadataCLI {
 
         // Get additional inputs for step 3 (NFT minting)
         let scriptArgs = [];
-        if (step.id === "3") {
+        if (step.id === "3" || step.id === "4") {
             // Get network selection
             const network = await this.askQuestion(
-                "Enter network (mainnet/devnet/testnet): ",
+                "Enter network (mainnet/devnet): ",
             );
-            if (
-                !["mainnet", "devnet", "testnet"].includes(
-                    network.toLowerCase(),
-                )
-            ) {
+            if (!["mainnet", "devnet"].includes(network.toLowerCase())) {
                 this.logError("Invalid network selected!");
                 return false;
             }
 
-            // Get number of NFTs to mint
-            const nftCount = await this.askQuestion(
-                "Enter number of NFTs to mint (1-100): ",
-            );
-            const count = parseInt(nftCount);
-            if (isNaN(count) || count < 1 || count > 100) {
-                this.logError(
-                    "Invalid NFT count! Please enter a number between 1 and 100.",
+            if (step.id === "3") {
+                // Get number of NFTs to mint
+                const nftCount = await this.askQuestion(
+                    "Enter number of NFTs to mint (1-100): ",
                 );
-                return false;
-            }
+                const count = parseInt(nftCount);
+                if (isNaN(count) || count < 1 || count > 100) {
+                    this.logError(
+                        "Invalid NFT count! Please enter a number between 1 and 100.",
+                    );
+                    return false;
+                }
 
-            scriptArgs = [
-                `--network=${network.toLowerCase()}`,
-                `--count=${count}`,
-            ];
+                scriptArgs = [
+                    `--network=${network.toLowerCase()}`,
+                    `--count=${count}`,
+                ];
+            } else {
+                // Get recipientAddress
+                const recipientAddress = await this.askQuestion(
+                    "Enter recipient address for NFTs to transfer: ",
+                );
+                if (!recipientAddress) {
+                    this.logError(
+                        "Invalid recipientAddress! Please enter a valid recipientAddress.",
+                    );
+                    return false;
+                }
+
+                scriptArgs = [
+                    `--network=${network.toLowerCase()}`,
+                    `--recipientAddress=${recipientAddress}`,
+                ];
+            }
         }
 
         return new Promise((resolve) => {

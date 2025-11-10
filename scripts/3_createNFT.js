@@ -305,7 +305,7 @@ args.forEach((arg) => {
 });
 
 // Validate arguments
-if (!["mainnet", "devnet", "testnet"].includes(network)) {
+if (!["mainnet", "devnet"].includes(network)) {
     console.error(
         "Invalid network specified. Must be mainnet, devnet, or testnet",
     );

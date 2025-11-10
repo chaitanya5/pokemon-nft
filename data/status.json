@@ -14,7 +14,13 @@
   "3": {
     "status": "running",
     "message": "Mint NFTs started",
-    "timestamp": "2025-10-28T17:02:35.040Z",
+    "timestamp": "2025-11-10T20:40:49.391Z",
     "step_name": "Mint NFTs"
+  },
+  "4": {
+    "status": "running",
+    "message": "Transfer NFTs started",
+    "timestamp": "2025-11-10T20:52:41.352Z",
+    "step_name": "Transfer NFTs"
   }
 }

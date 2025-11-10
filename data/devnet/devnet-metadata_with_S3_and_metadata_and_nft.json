@@ -94,7 +94,7 @@
     },
     "metadata_url": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1996-Pokemon-Japanese-Bandai-Carddass-Vending-Prism-Zapdos-145-PSA-8-NM-MT-61191978.json",
     "sanitizedFilename": "1996-Pokemon-Japanese-Bandai-Carddass-Vending-Prism-Zapdos-145-PSA-8-NM-MT-61191978",
-    "assetAddress": "J7hHD5M3fLtFBpKF6g7mcr7o4u3M5oBAv1noMcrSsAES"
+    "assetAddress": "2p52fCWkps5nLMM1RGiyYxiHjZE5XmsXYpH5QxfDBvgX"
   },
   {
     "name": "1996 Pokémon Japanese Base Set Holo Gyarados #130 CGC 8.5 NM-MT+",
@@ -191,7 +191,7 @@
     },
     "metadata_url": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1996-Pokemon-Japanese-Base-Set-Holo-Gyarados-130-CGC-8.5-NM-MT-3831886042.json",
     "sanitizedFilename": "1996-Pokemon-Japanese-Base-Set-Holo-Gyarados-130-CGC-8.5-NM-MT-3831886042",
-    "assetAddress": "Ci694tG4mAuzz4hWVGUfPQVLYjtSDv5CqoW8j48XAuvq"
+    "assetAddress": "D4aBXaCUnjt8iZFRKNup4a9tcs3S4oxc43Z7XvuRtziS"
   },
   {
     "name": "1996 Pokemon Japanese Base Set Holo Hitmonchan #107 CGC 10 GEM MINT",
@@ -288,7 +288,7 @@
     },
     "metadata_url": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1996-Pokemon-Japanese-Base-Set-Holo-Hitmonchan-107-CGC-10-GEM-MINT-1401023816152.json",
     "sanitizedFilename": "1996-Pokemon-Japanese-Base-Set-Holo-Hitmonchan-107-CGC-10-GEM-MINT-1401023816152",
-    "assetAddress": "GsdwokQGAQygVm3LXkv5yym1QhUZywChDDzdpik5csCM"
+    "assetAddress": "4WK2KpFzqQe8fPZb3kZEDBvetdWEX9ZjWfV4qM2VsVRE"
   },
   {
     "name": "1997 Pokemon Japanese Bandai Carddass Animation Opening Mew #1 CGC 10 GEM MINT",
@@ -385,7 +385,7 @@
     },
     "metadata_url": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Bandai-Carddass-Animation-Opening-Mew-1-CGC-10-GEM-MINT-6017405045.json",
     "sanitizedFilename": "1997-Pokemon-Japanese-Bandai-Carddass-Animation-Opening-Mew-1-CGC-10-GEM-MINT-6017405045",
-    "assetAddress": "3xoamgJFi3ScWKN4cahokrSksawzCVtwYJ8dqusxptP9"
+    "assetAddress": "9kZmVfA5KbsN36vBTrkXMLPoXp6V4YCp2YqaMpqnscHj"
   },
   {
     "name": "1997 Pokemon Japanese Bandai Carddass Animation Opening Mew #1 CGC 10 GEM MINT",
@@ -482,7 +482,201 @@
     },
     "metadata_url": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Bandai-Carddass-Animation-Opening-Mew-1-CGC-10-GEM-MINT-6017405046.json",
     "sanitizedFilename": "1997-Pokemon-Japanese-Bandai-Carddass-Animation-Opening-Mew-1-CGC-10-GEM-MINT-6017405046",
-    "assetAddress": "7r3jSNTaWHBiim4Kz4WKpEMbxXWYDs6RbbxxqWf1dDLe"
+    "assetAddress": "GW2qJTBgpcGMTpULVfMi6A6Hf2MvxiLEJwwKf8mPwZhy"
+  },
+  {
+    "name": "1997 Pokemon Japanese Fossil Holo Moltres #146 CGC 9 MINT",
+    "description": "1997 Pokemon Japanese Fossil Holo Moltres #146 CGC 9 MINT",
+    "image": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Fossil-Holo-Moltres-146-CGC-9-MINT-6069900003-front.jpg",
+    "animation_url": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Fossil-Holo-Moltres-146-CGC-9-MINT-6069900003-front.jpg",
+    "external_url": "https://ready.cards/",
+    "attributes": [
+      {
+        "trait_type": "Front Image",
+        "value": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Fossil-Holo-Moltres-146-CGC-9-MINT-6069900003-front.jpg"
+      },
+      {
+        "trait_type": "Back Image",
+        "value": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Fossil-Holo-Moltres-146-CGC-9-MINT-6069900003-back.jpg"
+      },
+      {
+        "trait_type": "Serial Number",
+        "value": "#146"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Card"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Pokémon"
+      },
+      {
+        "trait_type": "Year",
+        "value": 1997
+      },
+      {
+        "trait_type": "Vault1",
+        "value": "PSA"
+      },
+      {
+        "trait_type": "Vault2",
+        "value": "Fanatics"
+      },
+      {
+        "trait_type": "Vault1 Location",
+        "value": "600 Ships Landing Way New Castle, DE 19720"
+      },
+      {
+        "trait_type": "Vault2 Location",
+        "value": "7560 SW Durham Rd, ID 2065088 Tigard, OR 97224"
+      },
+      {
+        "trait_type": "Vault1 ID",
+        "value": "104740717"
+      },
+      {
+        "trait_type": "Vault2 ID",
+        "value": "2065088"
+      },
+      {
+        "trait_type": "Grading ID",
+        "value": "6069900003"
+      },
+      {
+        "trait_type": "Grading Company",
+        "value": "CGC"
+      },
+      {
+        "trait_type": "Autographed",
+        "value": "false"
+      },
+      {
+        "trait_type": "The Grade",
+        "value": "CGC 9 MINT"
+      },
+      {
+        "trait_type": "GradeNum",
+        "value": "9"
+      },
+      {
+        "trait_type": "Fair Market Value",
+        "value": 49.2
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Fossil-Holo-Moltres-146-CGC-9-MINT-6069900003-front.jpg",
+          "type": "image/jpeg"
+        },
+        {
+          "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Fossil-Holo-Moltres-146-CGC-9-MINT-6069900003-back.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "category": "image"
+    },
+    "metadata_url": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Fossil-Holo-Moltres-146-CGC-9-MINT-6069900003.json",
+    "sanitizedFilename": "1997-Pokemon-Japanese-Fossil-Holo-Moltres-146-CGC-9-MINT-6069900003",
+    "assetAddress": "H3WXpATGXVJF1LF73Z8ogX3X85qSrRJqXaNGXGCkZKiR"
+  },
+  {
+    "name": "1997 Pokemon Japanese Meiji Promo Foil Hanada Gym 3 Sisters PSA 8 NM-MT",
+    "description": "1997 Pokemon Japanese Meiji Promo Foil Hanada Gym 3 Sisters PSA 8 NM-MT",
+    "image": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Meiji-Promo-Foil-Hanada-Gym-3-Sisters-PSA-8-NM-MT-94650089-front.jpg",
+    "animation_url": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Meiji-Promo-Foil-Hanada-Gym-3-Sisters-PSA-8-NM-MT-94650089-front.jpg",
+    "external_url": "https://ready.cards/",
+    "attributes": [
+      {
+        "trait_type": "Front Image",
+        "value": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Meiji-Promo-Foil-Hanada-Gym-3-Sisters-PSA-8-NM-MT-94650089-front.jpg"
+      },
+      {
+        "trait_type": "Back Image",
+        "value": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Meiji-Promo-Foil-Hanada-Gym-3-Sisters-PSA-8-NM-MT-94650089-back.jpg"
+      },
+      {
+        "trait_type": "Serial Number",
+        "value": "94650089"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Card"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Pokémon"
+      },
+      {
+        "trait_type": "Year",
+        "value": 1997
+      },
+      {
+        "trait_type": "Vault1",
+        "value": "PSA"
+      },
+      {
+        "trait_type": "Vault2",
+        "value": "Fanatics"
+      },
+      {
+        "trait_type": "Vault1 Location",
+        "value": "600 Ships Landing Way New Castle, DE 19720"
+      },
+      {
+        "trait_type": "Vault2 Location",
+        "value": "7560 SW Durham Rd, ID 2065088 Tigard, OR 97224"
+      },
+      {
+        "trait_type": "Vault1 ID",
+        "value": "104740717"
+      },
+      {
+        "trait_type": "Vault2 ID",
+        "value": "2065088"
+      },
+      {
+        "trait_type": "Grading ID",
+        "value": "94650089"
+      },
+      {
+        "trait_type": "Grading Company",
+        "value": "PSA"
+      },
+      {
+        "trait_type": "Autographed",
+        "value": "false"
+      },
+      {
+        "trait_type": "The Grade",
+        "value": "PSA 8 NM-MT"
+      },
+      {
+        "trait_type": "GradeNum",
+        "value": "8"
+      },
+      {
+        "trait_type": "Fair Market Value",
+        "value": 133
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Meiji-Promo-Foil-Hanada-Gym-3-Sisters-PSA-8-NM-MT-94650089-front.jpg",
+          "type": "image/jpeg"
+        },
+        {
+          "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Meiji-Promo-Foil-Hanada-Gym-3-Sisters-PSA-8-NM-MT-94650089-back.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "category": "image"
+    },
+    "metadata_url": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Meiji-Promo-Foil-Hanada-Gym-3-Sisters-PSA-8-NM-MT-94650089.json",
+    "sanitizedFilename": "1997-Pokemon-Japanese-Meiji-Promo-Foil-Hanada-Gym-3-Sisters-PSA-8-NM-MT-94650089",
+    "assetAddress": "4FUfStbjEjaiCWmhdodERiNXujhnb4nyvhejeX6iFynq"
   },
   {
     "name": "1997 Pokemon Japanese Rocket Gang Grimer #88 PSA 9 MINT",
@@ -579,6 +773,297 @@
     },
     "metadata_url": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Rocket-Gang-Grimer-88-PSA-9-MINT-109541850.json",
     "sanitizedFilename": "1997-Pokemon-Japanese-Rocket-Gang-Grimer-88-PSA-9-MINT-109541850",
-    "assetAddress": "B9gbYDnbCuDkwmYWbcBbSpjMsDBdUeDJdL1kA3TTSk9f"
+    "assetAddress": "ze9qnssP8AuxN5BTALonkmk2eX9q7fyuqrRdfyru6Ur"
+  },
+  {
+    "name": "1997 Pokémon Japanese Rocket Gang Holo Dark Dragonite #149 CGC 8 NM-MT",
+    "description": "1997 Pokémon Japanese Rocket Gang Holo Dark Dragonite #149 CGC 8 NM-MT",
+    "image": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Rocket-Gang-Holo-Dark-Dragonite-149-CGC-8-NM-MT-3831886117-front.jpg",
+    "animation_url": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Rocket-Gang-Holo-Dark-Dragonite-149-CGC-8-NM-MT-3831886117-front.jpg",
+    "external_url": "https://ready.cards/",
+    "attributes": [
+      {
+        "trait_type": "Front Image",
+        "value": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Rocket-Gang-Holo-Dark-Dragonite-149-CGC-8-NM-MT-3831886117-front.jpg"
+      },
+      {
+        "trait_type": "Back Image",
+        "value": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Rocket-Gang-Holo-Dark-Dragonite-149-CGC-8-NM-MT-3831886117-back.jpg"
+      },
+      {
+        "trait_type": "Serial Number",
+        "value": "#149"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Card"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Pokémon"
+      },
+      {
+        "trait_type": "Year",
+        "value": 1997
+      },
+      {
+        "trait_type": "Vault1",
+        "value": "PSA"
+      },
+      {
+        "trait_type": "Vault2",
+        "value": "Fanatics"
+      },
+      {
+        "trait_type": "Vault1 Location",
+        "value": "600 Ships Landing Way New Castle, DE 19720"
+      },
+      {
+        "trait_type": "Vault2 Location",
+        "value": "7560 SW Durham Rd, ID 2065088 Tigard, OR 97224"
+      },
+      {
+        "trait_type": "Vault1 ID",
+        "value": "104740717"
+      },
+      {
+        "trait_type": "Vault2 ID",
+        "value": "2065088"
+      },
+      {
+        "trait_type": "Grading ID",
+        "value": "3831886117"
+      },
+      {
+        "trait_type": "Grading Company",
+        "value": "CGC"
+      },
+      {
+        "trait_type": "Autographed",
+        "value": "false"
+      },
+      {
+        "trait_type": "The Grade",
+        "value": "CGC 8 NM-MT"
+      },
+      {
+        "trait_type": "GradeNum",
+        "value": "8"
+      },
+      {
+        "trait_type": "Fair Market Value",
+        "value": 80
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Rocket-Gang-Holo-Dark-Dragonite-149-CGC-8-NM-MT-3831886117-front.jpg",
+          "type": "image/jpeg"
+        },
+        {
+          "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Rocket-Gang-Holo-Dark-Dragonite-149-CGC-8-NM-MT-3831886117-back.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "category": "image"
+    },
+    "metadata_url": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Rocket-Gang-Holo-Dark-Dragonite-149-CGC-8-NM-MT-3831886117.json",
+    "sanitizedFilename": "1997-Pokemon-Japanese-Rocket-Gang-Holo-Dark-Dragonite-149-CGC-8-NM-MT-3831886117",
+    "assetAddress": "GXVSzq8iBDpJiWYyqr6LsuAH8XDA9DWHuP1VrM4Jq8c"
+  },
+  {
+    "name": "1997 Pokemon Japanese Topsun Blue Back Machoke #67 CGC 10 GEM MINT",
+    "description": "1997 Pokemon Japanese Topsun Blue Back Machoke #67 CGC 10 GEM MINT",
+    "image": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Topsun-Blue-Back-Machoke-67-CGC-10-GEM-MINT-6016885010-front.jpg",
+    "animation_url": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Topsun-Blue-Back-Machoke-67-CGC-10-GEM-MINT-6016885010-front.jpg",
+    "external_url": "https://ready.cards/",
+    "attributes": [
+      {
+        "trait_type": "Front Image",
+        "value": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Topsun-Blue-Back-Machoke-67-CGC-10-GEM-MINT-6016885010-front.jpg"
+      },
+      {
+        "trait_type": "Back Image",
+        "value": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Topsun-Blue-Back-Machoke-67-CGC-10-GEM-MINT-6016885010-back.jpg"
+      },
+      {
+        "trait_type": "Serial Number",
+        "value": "#67"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Card"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Pokémon"
+      },
+      {
+        "trait_type": "Year",
+        "value": 1997
+      },
+      {
+        "trait_type": "Vault1",
+        "value": "PSA"
+      },
+      {
+        "trait_type": "Vault2",
+        "value": "Fanatics"
+      },
+      {
+        "trait_type": "Vault1 Location",
+        "value": "600 Ships Landing Way New Castle, DE 19720"
+      },
+      {
+        "trait_type": "Vault2 Location",
+        "value": "7560 SW Durham Rd, ID 2065088 Tigard, OR 97224"
+      },
+      {
+        "trait_type": "Vault1 ID",
+        "value": "104740717"
+      },
+      {
+        "trait_type": "Vault2 ID",
+        "value": "2065088"
+      },
+      {
+        "trait_type": "Grading ID",
+        "value": "6016885010"
+      },
+      {
+        "trait_type": "Grading Company",
+        "value": "CGC"
+      },
+      {
+        "trait_type": "Autographed",
+        "value": "false"
+      },
+      {
+        "trait_type": "The Grade",
+        "value": "CGC 10 GEM MINT"
+      },
+      {
+        "trait_type": "GradeNum",
+        "value": "10"
+      },
+      {
+        "trait_type": "Fair Market Value",
+        "value": 325
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Topsun-Blue-Back-Machoke-67-CGC-10-GEM-MINT-6016885010-front.jpg",
+          "type": "image/jpeg"
+        },
+        {
+          "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Topsun-Blue-Back-Machoke-67-CGC-10-GEM-MINT-6016885010-back.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "category": "image"
+    },
+    "metadata_url": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Topsun-Blue-Back-Machoke-67-CGC-10-GEM-MINT-6016885010.json",
+    "sanitizedFilename": "1997-Pokemon-Japanese-Topsun-Blue-Back-Machoke-67-CGC-10-GEM-MINT-6016885010",
+    "assetAddress": "9iBPsqmwfgYr1Zjapunq9G4YD1BsE95zkP6GKCBwfLiK"
+  },
+  {
+    "name": "1997 Pokemon Japanese Topsun Charizard Vs Gengar #6 CGC 8 NM-MT",
+    "description": "1997 Pokemon Japanese Topsun Charizard Vs Gengar #6 CGC 8 NM-MT",
+    "image": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Topsun-Charizard-Vs-Gengar-6-CGC-8-NM-MT-1401039615090-front.jpg",
+    "animation_url": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Topsun-Charizard-Vs-Gengar-6-CGC-8-NM-MT-1401039615090-front.jpg",
+    "external_url": "https://ready.cards/",
+    "attributes": [
+      {
+        "trait_type": "Front Image",
+        "value": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Topsun-Charizard-Vs-Gengar-6-CGC-8-NM-MT-1401039615090-front.jpg"
+      },
+      {
+        "trait_type": "Back Image",
+        "value": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Topsun-Charizard-Vs-Gengar-6-CGC-8-NM-MT-1401039615090-back.jpg"
+      },
+      {
+        "trait_type": "Serial Number",
+        "value": "#6"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Card"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Pokémon"
+      },
+      {
+        "trait_type": "Year",
+        "value": 1997
+      },
+      {
+        "trait_type": "Vault1",
+        "value": "PSA"
+      },
+      {
+        "trait_type": "Vault2",
+        "value": "Fanatics"
+      },
+      {
+        "trait_type": "Vault1 Location",
+        "value": "600 Ships Landing Way New Castle, DE 19720"
+      },
+      {
+        "trait_type": "Vault2 Location",
+        "value": "7560 SW Durham Rd, ID 2065088 Tigard, OR 97224"
+      },
+      {
+        "trait_type": "Vault1 ID",
+        "value": "104740717"
+      },
+      {
+        "trait_type": "Vault2 ID",
+        "value": "2065088"
+      },
+      {
+        "trait_type": "Grading ID",
+        "value": "1401039615090"
+      },
+      {
+        "trait_type": "Grading Company",
+        "value": "CGC"
+      },
+      {
+        "trait_type": "Autographed",
+        "value": "false"
+      },
+      {
+        "trait_type": "The Grade",
+        "value": "CGC 8 NM-MT"
+      },
+      {
+        "trait_type": "GradeNum",
+        "value": "8"
+      },
+      {
+        "trait_type": "Fair Market Value",
+        "value": 85
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Topsun-Charizard-Vs-Gengar-6-CGC-8-NM-MT-1401039615090-front.jpg",
+          "type": "image/jpeg"
+        },
+        {
+          "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample-images/1997-Pokemon-Japanese-Topsun-Charizard-Vs-Gengar-6-CGC-8-NM-MT-1401039615090-back.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "category": "image"
+    },
+    "metadata_url": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Topsun-Charizard-Vs-Gengar-6-CGC-8-NM-MT-1401039615090.json",
+    "sanitizedFilename": "1997-Pokemon-Japanese-Topsun-Charizard-Vs-Gengar-6-CGC-8-NM-MT-1401039615090",
+    "assetAddress": "F4qJNqUod274SxKhc1r2CS7VThMMTcqRvxJQUwkr5HXD"
   }
 ]

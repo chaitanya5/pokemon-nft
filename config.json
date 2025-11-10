@@ -59,9 +59,9 @@
                 "parameters": {
                     "network": {
                         "type": "string",
-                        "description": "Network to deploy NFTs (mainnet/devnet/testnet)",
+                        "description": "Network to deploy NFTs (mainnet/devnet)",
                         "required": true,
-                        "enum": ["mainnet", "devnet", "testnet"]
+                        "enum": ["mainnet", "devnet"]
                     },
                     "count": {
                         "type": "number",
@@ -69,6 +69,30 @@
                         "required": true,
                         "minimum": 1,
                         "maximum": 100
+                    }
+                }
+            },
+            {
+                "id": "4",
+                "name": "Transfer NFTs",
+                "script": "scripts/4_transferNFT.js",
+                "description": "Transfer NFTS",
+                "icon": "📊",
+                "enabled": true,
+                "dependencies": [],
+                "inputs": {},
+                "outputs": {},
+                "parameters": {
+                    "network": {
+                        "type": "string",
+                        "description": "Network to transfer NFTs (mainnet/devnet)",
+                        "required": true,
+                        "enum": ["mainnet", "devnet"]
+                    },
+                    "recipientAddress": {
+                        "type": "string",
+                        "description": "Recipient Wallet to transfer the NFTs",
+                        "required": true
                     }
                 }
             }

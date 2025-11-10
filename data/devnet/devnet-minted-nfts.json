@@ -1,74 +1,101 @@
 {
   "1996-Pokemon-Japanese-Bandai-Carddass-Vending-Prism-Zapdos-145-PSA-8-NM-MT-61191978": {
-    "assetAddress": "J7hHD5M3fLtFBpKF6g7mcr7o4u3M5oBAv1noMcrSsAES",
-    "ownerAddress": "P1pEws6aGDMu2VecAqmHpFtpEgY8wkjkGf8qHAVrSyM",
-    "transactionSignature": "5qWtV49Eb1UWLzdEkvM3NPh2iVEnuZr26dcPcJbFrJ1WfCV1waLPdXN2s42b8TmcEnxVP5V9FTZBVsXLDVt76UUL",
-    "explorerUrl": "https://explorer.solana.com/tx/5qWtV49Eb1UWLzdEkvM3NPh2iVEnuZr26dcPcJbFrJ1WfCV1waLPdXN2s42b8TmcEnxVP5V9FTZBVsXLDVt76UUL?cluster=devnet",
+    "assetAddress": "2p52fCWkps5nLMM1RGiyYxiHjZE5XmsXYpH5QxfDBvgX",
+    "ownerAddress": "9j2u9sMjTRUjJWZLHiuYNDB5U57qu76t6CX1a48MQyY4",
+    "transactionSignature": "9PcFodK8aPa1zVEVKWBSb94bfj5S4RogFhX6X2ZY2Uk5myjv9yW72cbfGhQr8iB7J3VZ6w2XYbs7WLWUW7BXh3X",
+    "explorerUrl": "https://explorer.solana.com/tx/9PcFodK8aPa1zVEVKWBSb94bfj5S4RogFhX6X2ZY2Uk5myjv9yW72cbfGhQr8iB7J3VZ6w2XYbs7WLWUW7BXh3X?cluster=devnet",
     "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1996-Pokemon-Japanese-Bandai-Carddass-Vending-Prism-Zapdos-145-PSA-8-NM-MT-61191978.json",
     "collectionAddress": "3p5vgqwR3Y5HUx3SuYjRrpeUpwd4A6H8F1aggpdrb5Zr",
-    "timestamp": "2025-10-28T16:03:46.278Z"
+    "timestamp": "2025-11-10T20:41:00.206Z"
   },
   "1996-Pokemon-Japanese-Base-Set-Holo-Gyarados-130-CGC-8.5-NM-MT-3831886042": {
-    "assetAddress": "Ci694tG4mAuzz4hWVGUfPQVLYjtSDv5CqoW8j48XAuvq",
-    "ownerAddress": "P1pEws6aGDMu2VecAqmHpFtpEgY8wkjkGf8qHAVrSyM",
-    "transactionSignature": "vjSzBwkyHjr6gRcaPuSEt8nJCrZCf6h2v45Sdjy8dZiM22T1gVHitoPM98brX6mki2PDvr4S4qfBjDQP3FWuqPa",
-    "explorerUrl": "https://explorer.solana.com/tx/vjSzBwkyHjr6gRcaPuSEt8nJCrZCf6h2v45Sdjy8dZiM22T1gVHitoPM98brX6mki2PDvr4S4qfBjDQP3FWuqPa?cluster=devnet",
+    "assetAddress": "D4aBXaCUnjt8iZFRKNup4a9tcs3S4oxc43Z7XvuRtziS",
+    "ownerAddress": "9j2u9sMjTRUjJWZLHiuYNDB5U57qu76t6CX1a48MQyY4",
+    "transactionSignature": "5rzvJEgXjCFRST5ApDnNeXrvNdXyAJ2nWUdkQuyfXE8bv2CirCxzeE2eb7vsqMzsAn43vS2ga7ZQ2qdP2qUKAtqN",
+    "explorerUrl": "https://explorer.solana.com/tx/5rzvJEgXjCFRST5ApDnNeXrvNdXyAJ2nWUdkQuyfXE8bv2CirCxzeE2eb7vsqMzsAn43vS2ga7ZQ2qdP2qUKAtqN?cluster=devnet",
     "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1996-Pokemon-Japanese-Base-Set-Holo-Gyarados-130-CGC-8.5-NM-MT-3831886042.json",
     "collectionAddress": "3p5vgqwR3Y5HUx3SuYjRrpeUpwd4A6H8F1aggpdrb5Zr",
-    "timestamp": "2025-10-28T16:05:33.708Z"
+    "timestamp": "2025-11-10T20:41:04.952Z"
   },
   "1996-Pokemon-Japanese-Base-Set-Holo-Hitmonchan-107-CGC-10-GEM-MINT-1401023816152": {
-    "assetAddress": "GsdwokQGAQygVm3LXkv5yym1QhUZywChDDzdpik5csCM",
-    "ownerAddress": "P1pEws6aGDMu2VecAqmHpFtpEgY8wkjkGf8qHAVrSyM",
-    "transactionSignature": "5JAhT6t2XF4x5uLcasa2dqshsfirXdBBuZBVD3WJPRMnzyWwxR8VMXjk7aSB7Z5Rs8debkJGEgzhY1yfVFLQs9db",
-    "explorerUrl": "https://explorer.solana.com/tx/5JAhT6t2XF4x5uLcasa2dqshsfirXdBBuZBVD3WJPRMnzyWwxR8VMXjk7aSB7Z5Rs8debkJGEgzhY1yfVFLQs9db?cluster=devnet",
+    "assetAddress": "4WK2KpFzqQe8fPZb3kZEDBvetdWEX9ZjWfV4qM2VsVRE",
+    "ownerAddress": "9j2u9sMjTRUjJWZLHiuYNDB5U57qu76t6CX1a48MQyY4",
+    "transactionSignature": "57Cv74Kj3Bubec8oyMCrx8adfJtLt4DW8ZwNxc7FBnePvbt1cpU62v1gbAtfdMtVviQsnEPdPoWiGwPZDHsPdXaM",
+    "explorerUrl": "https://explorer.solana.com/tx/57Cv74Kj3Bubec8oyMCrx8adfJtLt4DW8ZwNxc7FBnePvbt1cpU62v1gbAtfdMtVviQsnEPdPoWiGwPZDHsPdXaM?cluster=devnet",
     "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1996-Pokemon-Japanese-Base-Set-Holo-Hitmonchan-107-CGC-10-GEM-MINT-1401023816152.json",
     "collectionAddress": "3p5vgqwR3Y5HUx3SuYjRrpeUpwd4A6H8F1aggpdrb5Zr",
-    "timestamp": "2025-10-28T16:16:49.318Z"
+    "timestamp": "2025-11-10T20:41:08.280Z"
   },
   "1997-Pokemon-Japanese-Bandai-Carddass-Animation-Opening-Mew-1-CGC-10-GEM-MINT-6017405045": {
-    "assetAddress": "3xoamgJFi3ScWKN4cahokrSksawzCVtwYJ8dqusxptP9",
-    "ownerAddress": "P1pEws6aGDMu2VecAqmHpFtpEgY8wkjkGf8qHAVrSyM",
-    "transactionSignature": "2wLbjfH85STyYsmkDzuB7CXxVVydGqLtZ4ZmyfncqcB7ZYgQ771qf6QhoUXkDSRM73SVYi5swnM7XSNmBqcXX7ST",
-    "explorerUrl": "https://explorer.solana.com/tx/2wLbjfH85STyYsmkDzuB7CXxVVydGqLtZ4ZmyfncqcB7ZYgQ771qf6QhoUXkDSRM73SVYi5swnM7XSNmBqcXX7ST?cluster=devnet",
+    "assetAddress": "9kZmVfA5KbsN36vBTrkXMLPoXp6V4YCp2YqaMpqnscHj",
+    "ownerAddress": "9j2u9sMjTRUjJWZLHiuYNDB5U57qu76t6CX1a48MQyY4",
+    "transactionSignature": "5v3q43pbpshsucCPFZ71sawAximRMikZvCzc2YHCh6bpbxmEi5X7UgZkDiCnrbVMWGhgvATBikBbEpy6XMfxxDoX",
+    "explorerUrl": "https://explorer.solana.com/tx/5v3q43pbpshsucCPFZ71sawAximRMikZvCzc2YHCh6bpbxmEi5X7UgZkDiCnrbVMWGhgvATBikBbEpy6XMfxxDoX?cluster=devnet",
     "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Bandai-Carddass-Animation-Opening-Mew-1-CGC-10-GEM-MINT-6017405045.json",
     "collectionAddress": "3p5vgqwR3Y5HUx3SuYjRrpeUpwd4A6H8F1aggpdrb5Zr",
-    "timestamp": "2025-10-28T16:17:24.707Z"
+    "timestamp": "2025-11-10T20:41:11.394Z"
   },
   "1997-Pokemon-Japanese-Bandai-Carddass-Animation-Opening-Mew-1-CGC-10-GEM-MINT-6017405046": {
-    "assetAddress": "7r3jSNTaWHBiim4Kz4WKpEMbxXWYDs6RbbxxqWf1dDLe",
-    "ownerAddress": "P1pEws6aGDMu2VecAqmHpFtpEgY8wkjkGf8qHAVrSyM",
-    "transactionSignature": "5abMbi1NFm9D6ek9xP9RVkhkPVsKtkoLb73VAqQPd4DwA4ocBH1Hya23MD44PXQK2rRVULSU5qNQwLd92WZTq4HP",
-    "explorerUrl": "https://explorer.solana.com/tx/5abMbi1NFm9D6ek9xP9RVkhkPVsKtkoLb73VAqQPd4DwA4ocBH1Hya23MD44PXQK2rRVULSU5qNQwLd92WZTq4HP?cluster=devnet",
+    "assetAddress": "GW2qJTBgpcGMTpULVfMi6A6Hf2MvxiLEJwwKf8mPwZhy",
+    "ownerAddress": "9j2u9sMjTRUjJWZLHiuYNDB5U57qu76t6CX1a48MQyY4",
+    "transactionSignature": "5twLdfDgt84QVvFQWWipTKLqYCx1eXMMiaaKgGdvGviVRigRtNeV7YZnKkvs3Ys1HjYVm3s1u8WkpEZVsvUBaoMT",
+    "explorerUrl": "https://explorer.solana.com/tx/5twLdfDgt84QVvFQWWipTKLqYCx1eXMMiaaKgGdvGviVRigRtNeV7YZnKkvs3Ys1HjYVm3s1u8WkpEZVsvUBaoMT?cluster=devnet",
     "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Bandai-Carddass-Animation-Opening-Mew-1-CGC-10-GEM-MINT-6017405046.json",
     "collectionAddress": "3p5vgqwR3Y5HUx3SuYjRrpeUpwd4A6H8F1aggpdrb5Zr",
-    "timestamp": "2025-10-28T16:26:28.758Z"
+    "timestamp": "2025-11-10T20:41:14.831Z"
   },
   "1997-Pokemon-Japanese-Fossil-Holo-Moltres-146-CGC-9-MINT-6069900003": {
-    "assetAddress": "4v5xboBK7etHP39cFty6w3d8twRMNYPLWCQxmuxoUCXc",
-    "ownerAddress": "P1pEws6aGDMu2VecAqmHpFtpEgY8wkjkGf8qHAVrSyM",
-    "transactionSignature": "4kwcxwGLguzC85BNXRvaTwABQDyoTuaPc1zXXQZ4Rv4XAwxn2fru5PfcZ52pvSdmvRpgvsdYz1aBH7WcXP6ydHA3",
-    "explorerUrl": "https://explorer.solana.com/tx/4kwcxwGLguzC85BNXRvaTwABQDyoTuaPc1zXXQZ4Rv4XAwxn2fru5PfcZ52pvSdmvRpgvsdYz1aBH7WcXP6ydHA3?cluster=devnet",
+    "assetAddress": "H3WXpATGXVJF1LF73Z8ogX3X85qSrRJqXaNGXGCkZKiR",
+    "ownerAddress": "9j2u9sMjTRUjJWZLHiuYNDB5U57qu76t6CX1a48MQyY4",
+    "transactionSignature": "2eb3ozhEV4SHgGihNbpoLXgZr6dW6cUW8cA9ADf5koB5w7z88VJggL8g1hxHGfYUo5Jxts7p11inN4fo4bmrcEAY",
+    "explorerUrl": "https://explorer.solana.com/tx/2eb3ozhEV4SHgGihNbpoLXgZr6dW6cUW8cA9ADf5koB5w7z88VJggL8g1hxHGfYUo5Jxts7p11inN4fo4bmrcEAY?cluster=devnet",
     "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Fossil-Holo-Moltres-146-CGC-9-MINT-6069900003.json",
     "collectionAddress": "3p5vgqwR3Y5HUx3SuYjRrpeUpwd4A6H8F1aggpdrb5Zr",
-    "timestamp": "2025-10-28T16:34:14.512Z"
+    "timestamp": "2025-11-10T20:41:17.886Z"
   },
   "1997-Pokemon-Japanese-Meiji-Promo-Foil-Hanada-Gym-3-Sisters-PSA-8-NM-MT-94650089": {
-    "assetAddress": "6hgHv9kAKZuR1QYffYQfun5AV5gVjJQT8DCjBgtnsSL6",
-    "ownerAddress": "P1pEws6aGDMu2VecAqmHpFtpEgY8wkjkGf8qHAVrSyM",
-    "transactionSignature": "4fGcdPorrxJ3Mkh3RDoXpG8tBcUSCxPrRMGzRVsdBPK1mEvu3tjXKWBWzbDpr3Hbr7opH92PQtAM7wCGD1nQaMit",
-    "explorerUrl": "https://explorer.solana.com/tx/4fGcdPorrxJ3Mkh3RDoXpG8tBcUSCxPrRMGzRVsdBPK1mEvu3tjXKWBWzbDpr3Hbr7opH92PQtAM7wCGD1nQaMit?cluster=devnet",
+    "assetAddress": "4FUfStbjEjaiCWmhdodERiNXujhnb4nyvhejeX6iFynq",
+    "ownerAddress": "9j2u9sMjTRUjJWZLHiuYNDB5U57qu76t6CX1a48MQyY4",
+    "transactionSignature": "2v4BBe3gCRfPNUun6amSGWWgEPdxCC637UmqTkncDrvrcCdRKHG8ionxtfRwAn6jcFCd77UpaEEnH2iEAJjTRFMj",
+    "explorerUrl": "https://explorer.solana.com/tx/2v4BBe3gCRfPNUun6amSGWWgEPdxCC637UmqTkncDrvrcCdRKHG8ionxtfRwAn6jcFCd77UpaEEnH2iEAJjTRFMj?cluster=devnet",
     "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Meiji-Promo-Foil-Hanada-Gym-3-Sisters-PSA-8-NM-MT-94650089.json",
     "collectionAddress": "3p5vgqwR3Y5HUx3SuYjRrpeUpwd4A6H8F1aggpdrb5Zr",
-    "timestamp": "2025-10-28T16:34:18.163Z"
+    "timestamp": "2025-11-10T20:41:21.316Z"
   },
   "1997-Pokemon-Japanese-Rocket-Gang-Grimer-88-PSA-9-MINT-109541850": {
-    "assetAddress": "B9gbYDnbCuDkwmYWbcBbSpjMsDBdUeDJdL1kA3TTSk9f",
-    "ownerAddress": "P1pEws6aGDMu2VecAqmHpFtpEgY8wkjkGf8qHAVrSyM",
-    "transactionSignature": "4SSats1wVKU4UVRFQqh97nXH9neRZrdBjtma9UGkTT1Bzdgvo5ePpEwWB8cBTEHroLK447ouLfjMj7j9LAZZM5CW",
-    "explorerUrl": "https://explorer.solana.com/tx/4SSats1wVKU4UVRFQqh97nXH9neRZrdBjtma9UGkTT1Bzdgvo5ePpEwWB8cBTEHroLK447ouLfjMj7j9LAZZM5CW?cluster=devnet",
+    "assetAddress": "ze9qnssP8AuxN5BTALonkmk2eX9q7fyuqrRdfyru6Ur",
+    "ownerAddress": "9j2u9sMjTRUjJWZLHiuYNDB5U57qu76t6CX1a48MQyY4",
+    "transactionSignature": "2w91WAvjYPHhhpBdkzXyqYV45ya5vZopiyogGPN8Lb33kDazpX1D3M6XL2ZfG1N4QdxhKEdkj1cGGh7NGmjNveC4",
+    "explorerUrl": "https://explorer.solana.com/tx/2w91WAvjYPHhhpBdkzXyqYV45ya5vZopiyogGPN8Lb33kDazpX1D3M6XL2ZfG1N4QdxhKEdkj1cGGh7NGmjNveC4?cluster=devnet",
     "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Rocket-Gang-Grimer-88-PSA-9-MINT-109541850.json",
     "collectionAddress": "3p5vgqwR3Y5HUx3SuYjRrpeUpwd4A6H8F1aggpdrb5Zr",
-    "timestamp": "2025-10-28T16:38:19.613Z"
+    "timestamp": "2025-11-10T20:41:23.090Z"
+  },
+  "1997-Pokemon-Japanese-Rocket-Gang-Holo-Dark-Dragonite-149-CGC-8-NM-MT-3831886117": {
+    "assetAddress": "GXVSzq8iBDpJiWYyqr6LsuAH8XDA9DWHuP1VrM4Jq8c",
+    "ownerAddress": "9j2u9sMjTRUjJWZLHiuYNDB5U57qu76t6CX1a48MQyY4",
+    "transactionSignature": "bAv3nhDGJSBUS35H44SRxheBpdMNivKyR3URXDinYxLUajzpR7PxYsgujjp7E8ikR1UaoTR4CPptxsgDTTiAZkD",
+    "explorerUrl": "https://explorer.solana.com/tx/bAv3nhDGJSBUS35H44SRxheBpdMNivKyR3URXDinYxLUajzpR7PxYsgujjp7E8ikR1UaoTR4CPptxsgDTTiAZkD?cluster=devnet",
+    "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Rocket-Gang-Holo-Dark-Dragonite-149-CGC-8-NM-MT-3831886117.json",
+    "collectionAddress": "3p5vgqwR3Y5HUx3SuYjRrpeUpwd4A6H8F1aggpdrb5Zr",
+    "timestamp": "2025-11-10T20:41:26.694Z"
+  },
+  "1997-Pokemon-Japanese-Topsun-Blue-Back-Machoke-67-CGC-10-GEM-MINT-6016885010": {
+    "assetAddress": "9iBPsqmwfgYr1Zjapunq9G4YD1BsE95zkP6GKCBwfLiK",
+    "ownerAddress": "9j2u9sMjTRUjJWZLHiuYNDB5U57qu76t6CX1a48MQyY4",
+    "transactionSignature": "xcPS1BqwHBrGQSRu53DT8eEzLUwZD3V1kAmGXL6gpd5VS4n1bCZrwHqqAMJzNQ2oCtSZ6nnGUUMNjFaj4j8r3S6",
+    "explorerUrl": "https://explorer.solana.com/tx/xcPS1BqwHBrGQSRu53DT8eEzLUwZD3V1kAmGXL6gpd5VS4n1bCZrwHqqAMJzNQ2oCtSZ6nnGUUMNjFaj4j8r3S6?cluster=devnet",
+    "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Topsun-Blue-Back-Machoke-67-CGC-10-GEM-MINT-6016885010.json",
+    "collectionAddress": "3p5vgqwR3Y5HUx3SuYjRrpeUpwd4A6H8F1aggpdrb5Zr",
+    "timestamp": "2025-11-10T20:41:30.002Z"
+  },
+  "1997-Pokemon-Japanese-Topsun-Charizard-Vs-Gengar-6-CGC-8-NM-MT-1401039615090": {
+    "assetAddress": "F4qJNqUod274SxKhc1r2CS7VThMMTcqRvxJQUwkr5HXD",
+    "ownerAddress": "9j2u9sMjTRUjJWZLHiuYNDB5U57qu76t6CX1a48MQyY4",
+    "transactionSignature": "52u8Rc2C8EYDYeT744HPb189T1ewxSKXG2MkBeCjVzkDgcPkVtdAmKTkgD4hkjcPFF4Ecbu4ncFVH7Rb2XCQx2TM",
+    "explorerUrl": "https://explorer.solana.com/tx/52u8Rc2C8EYDYeT744HPb189T1ewxSKXG2MkBeCjVzkDgcPkVtdAmKTkgD4hkjcPFF4Ecbu4ncFVH7Rb2XCQx2TM?cluster=devnet",
+    "uri": "https://poke-mon.sfo3.digitaloceanspaces.com/sample_metadata2/1997-Pokemon-Japanese-Topsun-Charizard-Vs-Gengar-6-CGC-8-NM-MT-1401039615090.json",
+    "collectionAddress": "3p5vgqwR3Y5HUx3SuYjRrpeUpwd4A6H8F1aggpdrb5Zr",
+    "timestamp": "2025-11-10T20:41:33.568Z"
   }
 }
